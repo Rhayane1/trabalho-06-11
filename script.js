@@ -16,7 +16,7 @@ function removerParagrafo() {
     if (paragrafos.length > 1) {
     paragrafos[paragrafos.length = 1].remove();
     } else {
-        alert {"Não há mais paragrafos para remover😥!!"}
+        alert ("Não há mais paragrafos para remover😥!!")
     }
 }
 
